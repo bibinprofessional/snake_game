@@ -1,0 +1,6 @@
+SNAKE GAME
+
+This is a simple snake game programmed using c language.
+In this game, the keys 'w','s','a','d' are used to move up , down , left and right respectively.
+This game display the Score at the end of the game.
+Each time the snake gets the food the 8 points is added to the score.
